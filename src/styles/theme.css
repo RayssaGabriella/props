@@ -1,0 +1,16 @@
+:root{
+  --alta:#3ddad7;
+  --baixa:#ff6fa5;
+  --fundo-card:#f6f2ff;
+  --roxo:#7b5cff;
+}
+
+.container{
+  padding:40px;
+}
+
+.grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:20px;
+}

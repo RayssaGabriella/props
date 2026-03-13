@@ -1,0 +1,16 @@
+.fundo{
+    padding:10px;
+    text-align:center;
+}
+
+.cor{
+    color: var(--roxo);
+}
+
+.lucro{
+    color: var(--alta);
+}
+
+.prejuizo{
+    color: var(--baixa);
+}
